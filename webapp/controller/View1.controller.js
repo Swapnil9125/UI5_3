@@ -9,6 +9,7 @@ sap.ui.define([
 
         return Controller.extend("com.sap.project3.controller.View1", {
             onInit: function () {
+                // dafaf
 
             }
         });
